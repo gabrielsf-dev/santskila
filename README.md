@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @santskila
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, HTML, CSS
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me, discord: santskilla
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Actually, i don't know nothing about programming, and my english is not that good to get a job now, but i'm focused on my learning.
+## 👋 Hey there!
 
-<!---
-santskila/santskila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Gabriel dos Santos Ferreira, a self-taught front-end developer based in Brazil. I'm passionate about building accessible, responsive websites and learning how the web really works behind the scenes.
+
+I’ve been studying HTML and CSS deeply and building personal projects to sharpen my skills. I'm currently looking for my **first opportunity** in tech — open to freelance, internships, and junior roles.
+
+### 🚀 What I'm working on:
+- Personal websites using pure HTML & CSS
+- Publishing projects on GitHub Pages
+- Improving my English for future international opportunities
+- Studying Git, JavaScript and web fundamentals
+
+### 🌍 Goals:
+- Land my first job as a developer
+- Keep learning and eventually work abroad
+- Build a solid portfolio that reflects my evolution
+
+You can check out my work here on GitHub — feedback is always welcome!
+
+---
